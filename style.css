@@ -6,8 +6,23 @@ body {
     color: white;
     text-align: left;
   }
-  
+  h2 {
+    color:rgb(255, 254, 205)
+    text-align: left;
+  }
+  h3 {
+    color: white;
+    text-align: left;
+  }
   p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
   }
+ol {
+    color: white;
+    text-align: center;
+}
+ul {
+    color: white;
+    text-align: center;
+}
