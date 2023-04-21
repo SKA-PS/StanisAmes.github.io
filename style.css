@@ -4,6 +4,14 @@ body {
     text-align: left;
   }
 
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
   
   h1 {
     text-align: center;
