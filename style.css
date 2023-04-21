@@ -1,21 +1,21 @@
 body {
     background-color: rgb(64, 164, 182);
+    color: white;
+    text-align: left;
   }
   
   h1 {
-    color: white;
     text-align: center;
   }
 
 
   h2 {
-    color:rgb(255, 254, 205)
+    color:rgb(255, 254, 205);
     text-align: center;
   }
 
 
   h3 {
-    color: white;
     text-align: center;
   }
 
@@ -26,15 +26,3 @@ body {
     font-size: 20px;
     text-align: center;
   }
-
-
-ol {
-    color: white;
-    text-align: left;
-}
-
-
-ul {
-    color: white;
-    text-align: left;
-}
